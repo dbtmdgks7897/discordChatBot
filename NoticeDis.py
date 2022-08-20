@@ -9,7 +9,7 @@ cclient = commands.Bot()
 permission = discord.Permissions()
 
 SUG_channel = 616922772295122955
-TOKEN = "NjE3NTcxNDYyNDAzOTgxMzEz.XWtasg.64Qvb22--X1CXxI2DeygrcEI3KY"
+TOKEN = ""
 COLOR = 0x000000
 filename = "공지.xlsx"
 now = datetime.datetime.now()
